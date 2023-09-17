@@ -6,4 +6,4 @@ let productDiscount = 0.3;
 
 // Start coding here
 
-let = productImage = undefined
+let productImage;
